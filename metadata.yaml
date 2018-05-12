@@ -1,0 +1,37 @@
+_repo: Youth-and-Sex--Dangers-and-Safeguards-for-Girls-and-Boys_13722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Sibly, Frederick Arthur
+    alias: Sibly, F. Arthur
+    gutenberg_agent_id: '5197'
+    url: http://www.gutenberg.org/2009/agents/5197
+  - agent_name: Scharlieb, Mary
+    alias: Scharlieb, Mary Ann Dacomb Bird, Mrs.
+    birthdate: 1845
+    deathdate: 1930
+    gutenberg_agent_id: '5196'
+    url: http://www.gutenberg.org/2009/agents/5196
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2004-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexual ethics'
+- !lcsh 'Youth'
+- !lcsh 'Child psychology'
+- !lcc 'HQ'
+- !lcsh 'Adolescence'
+- !lcsh 'Moral conditions'
+- !lcsh 'Sex (Psychology)'
+title: 'Youth and Sex: Dangers and Safeguards for Girls and Boys'
+url: http://www.gutenberg.org/ebooks/13722
