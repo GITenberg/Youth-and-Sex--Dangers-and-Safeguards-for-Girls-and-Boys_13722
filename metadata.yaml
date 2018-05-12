@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5196'
     url: http://www.gutenberg.org/2009/agents/5196
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13722#Youth-and-Sex--Dangers-and-Safeguards-for-Girls-and-Boys
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2004-10-12'
 gutenberg_type: Text
